@@ -55,7 +55,10 @@ phonebook.pop("John")
 print(phonebook)
 ```
 # Exercise
+
 ```
+Add "Jake" to the phonebook with the phone number 938273443, and remove Jill from the phonebook.
+
 phonebook = {  
     "John" : 938477566,
     "Jack" : 938377264,
@@ -70,7 +73,7 @@ if "Jake" in phonebook:
 if "Jill" not in phonebook:      
     print("Jill is not listed in the phonebook.")  
 Add "Jake" to the phonebook with the phone number 938273443, and remove Jill from the phonebook.
-'''
+```
 
 # Solution
 ```
