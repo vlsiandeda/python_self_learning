@@ -17,7 +17,8 @@ myobjectx.function()
 
 
 # init()
-The __init__() function, is a special function that is called when the class is being initiated. It's used for assigning values in a class.
+The __init__() function, is a special function that is called when the class is being initiated. 
+It's used for assigning values in a class.
 
 class NumberHolder:
 
